@@ -17,7 +17,7 @@ export default class Card1 extends React.Component {
 									<Card.Meta>AGE</Card.Meta>
 									<Card.Description>Description. React makes it painless to create interactive UIs. Design simple views for each state in your application, and React will efficiently update and render just the right components when your data changes.<br/><br/> Declarative views make your code more predictable and easier to debug. </Card.Description>
 								</Card.Content>
-								<Card.Content extra>ghfcbv </Card.Content>
+								<Card.Content extra>good_work </Card.Content>
 							</Card>
 						</Grid.Column>
 					</feildset>
